@@ -26,6 +26,7 @@ elif choice == 2:
 else :
     answer = multiple(first_num,second_num)
 print(answer)
+print("hi m maryam")
 
 
 
